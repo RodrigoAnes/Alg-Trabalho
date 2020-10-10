@@ -1,0 +1,5 @@
+0001,YouTube,900,https://www.youtube.com/,youtube,videos,online
+0002,Netflix,800,https://www.netflix.com/br/,netflix,videos,streaming
+0003,Facebook,840,https://facebook.com/,social,videos,family,friends
+0004,Baidu	baidu.com
+0005,Tencent QQ	qq.com

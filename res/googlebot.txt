@@ -1,0 +1,76 @@
+0004,Sohu,846,https://www.sohu.com,noticias,china
+0005,Login.tmall.com,145,https://login.tmall.com,shopping,china,lojas,roupa
+0006,Taobao,423,https://www.taobao.com,shopping,china,online,loja
+0007,360 Safeguard,672,https://www.360.cn,seguranca,china,software
+0008,Jingdong Mall,347,https://www.jd.com,china,shopping
+0009,Yahoo!,890,https://www.yahoo.com,pesquisa,buscas,noticias
+0010,Amazon,976,https://www.amazon.com
+0011,Wikipedia,999,https://www.wikipedia.org
+0012,Sina Weibo,413,https://www.weibo.com
+0013,Sina Corp,456,https://www.sina.com.cn
+0014,Pages.tmall.com,812,https://www.Pages.tmall.com
+0015,Reddit,877,https://www.reddit.com
+0016,Live.com,243,https://www.live.com
+0017,Netflix,896,https://www.netflix.com
+0018,Okezone.com,324,https://www.Okezone.com
+0019,VK,152,https://www.vk.com
+0020,Google,999,https://www.Google.com
+0021,YouTube,972,https://www.youtube.com
+0022,Tmall,102,https://www.tmall.com
+0023,Facebook,542,https://www.facebook.com
+0024,Baidu,853,https://www.baidu.com
+0025,Tencent QQ,146,https://www.qq.com
+0042,Bongacams.com,112,https://www.Bongacams.com
+0043,Alipay.com,73,https://www.Alipay.com
+0044,Csdn.net,378,https://www.Csdn.net
+0045,Xinhuanet.com,1,https://www.Xinhuanet.com
+0046,Blogspot,832,https://www.blogspot.com
+0047,Livejasmin.com,154,https://www.Livejasmin.com
+0048,Instagram,742,https://www.instagram.com
+0050,Bing,532,https://www.bing.com
+0051,Babytree.com,324,https://www.Babytree.com
+0052,Office Online,134,https://www.office.com
+0053,Google Hong Kong,612,https://www.google.com.hk
+0054,AliExpress,498,https://www.aliexpress.com
+0055,Microsoft,750,https://www.microsoft.com
+0056,Twitter,822,https://www.twitter.com
+0057,Twitch.tv,943,https://www.twitch.tv
+0058,Naver,101,https://www.Naver.com
+0059,eBay,722,https://www.ebay.com
+0060,Stack Overflow,832,https://www.stackoverflow.com
+0061,Google India,612,https://www.google.co.in
+0062,Tianya.cn,222,https://www.Tianya.cn
+0063,Tribunnews.com,255,https://www.Tribunnews.com
+0064,Amazon Japan,786,https://www.amazon.co.jp
+0065,Pornhub,421,https://www.pornhub.com
+0066,Panda.tv,112,https://www.Panda.tv
+0067,Zhanqi.tv,32,https://www.Zhanqi.tv
+0068,Amazon.in,655,https://www.Amazon.in
+0069,Apple.com,800,https://www.Apple.com
+0070,XVideos,144,https://www.xvideos.com
+0071,xnxx.com,177,https://www.xnxx.com
+0072,Yandex,364,https://www.yandex.ru
+0073,Google Brasil,975,https://www.google.com.br
+0074,xHamster,23,https://www.xhamster.com
+0075,Odnoklassniki,2,https://www.ok.ru
+0076,Mail.ru,4,https://www.mail.ru
+0077,LinkedIn,888,https://www.linkedin.com
+0078,Pinterest,621,https://www.pinterest.com
+0079,WhatsApp,223,https://www.whatsapp.com
+0080,Amazon Germany,3,https://www.amazon.de
+0081,MSN,677,https://www.msn.com
+0082,Google Alemanha,256,https://www.google.de
+0083,PayPal,864,https://www.PayPal.com
+0084,Rakuten Japan,33,https://www.rakuten.co.jp
+0085,Amazon Reino Unido,65,https://www.amazon.co.uk
+0086,Daum.net,76,https://www.daum.net
+0087,Google Japão,321,https://www.google.co.jp
+0088,Bilibili.com,12,https://www.bilibili.com
+0089,Xvideos2.com,11,https://www.xvideos2.com
+0090,Internet Movie Database,775,https://www.imdb.com
+0091,Booking.com,898,https://www.booking.com
+0092,Roblox.com,345,https://www.roblox.com
+0093,9apps.com,655,https://www.9apps.com
+0094,Globo.com,789,https://www.globo.com
+0095,DuckDuckGo,267,https://www.duckduckgo.com
+0096,Docomo.ne.jp,87,https://www.docomo.ne.jp
